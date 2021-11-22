@@ -6,7 +6,7 @@ This project helps a Colorado Board of Elections employee, Tom, to tabulate the 
 ## Election-Audit Result
 * How many votes were cast in this congressional election? 
 
-The total number of votes is 369,711. It is equal to the total number of rows in election_results.csv based on the for loop method. This loop iterates through each row and increments the "total_votes" variable by 1.
+The total number of votes is 369,711. It is equal to the total number of rows in "election_results.csv" based on the for loop method. This loop iterates through each row and increments the "total_votes" variable by 1.
 ![total_votes1](Resources/total_votes1.png)
 ![total_votes2](Resources/total_votes2.png)
 
