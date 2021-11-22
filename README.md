@@ -3,7 +3,7 @@
 This project helps a Colorado Board of Elections employee, Tom, to tabulate the result for the U.S. Congressional precinct in Colorado. This analysis uncovered multiple data based on the Python automatic process, including the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the election winner.
 
 
-## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+## Election-Audit Result
 * How many votes were cast in this congressional election?图12
 
 The total number of votes is 369,711. 
@@ -34,8 +34,6 @@ Result of each candidate
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
 Diana DeGette won the election with the 73.8% of the total votes. The code uses the seperate f string to identify the winner clearly. 
 图winner
-
-
 
 
 ## Election-Audit Summary
