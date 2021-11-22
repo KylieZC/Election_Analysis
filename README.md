@@ -28,13 +28,13 @@ Below picture shows that the process retrieves the county's total vote count and
 The largest number of votes is Denver.
 They are applied the if statement to determine the county with the largest vote by comparing the percentage amount. 
 
-**Largest number of votes**
+_**Largest number of votes**_
 ![largest_count](Resources/largest_count.png)
 
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-**Results of each candidate**
+_**Results of each candidate**_
 ![vote_percentage](Resources/vote_percentage.png)
 
 
@@ -42,7 +42,7 @@ They are applied the if statement to determine the county with the largest vote 
 
 Diana DeGette won the election with 73.8% of the total votes. The code uses the separate f string to identify the winner. 
 
-**Winner of the election**
+_**Winner of the election**_
 ![winner](Resources/winner.png)
 
 
