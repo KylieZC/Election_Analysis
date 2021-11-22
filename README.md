@@ -15,10 +15,11 @@ The total number of votes is 369,711. It is equal to the total number of rows in
 
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
+Below picture shows that the process retrieves the county's total vote count and uses the equation to calculate the vote percentage of each county. Followed by the f-string in the next step, so the rate is formatted to one decimal place.
 
  **Results of each county**
 ![c_vote_percentage](Resources/c_vote_percentage.png)
-Upon picture shows that the process retrieves the county's total vote count and uses the equation to calculate the vote percentage of each county. Followed by the f-string in the next step, so the rate is formatted to one decimal place.
+
 
 
 
@@ -37,6 +38,7 @@ They are applied the if statement to determine the county with the largest vote 
 
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
+
 Diana DeGette won the election with 73.8% of the total votes. The code uses the separate f string to identify the winner. 
 
 **Winner of the election**
