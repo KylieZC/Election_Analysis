@@ -5,16 +5,14 @@ This project helps a Colorado Board of Elections employee, Tom, to tabulate the 
 
 ## Election-Audit Result
 * How many votes were cast in this congressional election? 
-The total number of votes is 369,711. 
-
+**The total number of votes is 369,711.** 
 ![total_votes1](Resources/total_votes1.png)
 ![total_votes2](Resources/total_votes2.png)
-
 It is equal to the total number of rows in election_results.csv based on the for loop method. This loop iterates through each row and increments the "total_votes" variable by 1.
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
 
-Result of each county
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
+**Result of each county**
 ![c_vote_percentage](Resources/c_vote_percentage.png)
 
 Upon picture shows that the process retrieve the county's total vote count, and use the equation to calculate the vote percentage of each county. Followed by the f-string in the next step, so the percentage is formatted to one decimal place.
@@ -25,13 +23,14 @@ Upon picture shows that the process retrieve the county's total vote count, and 
 The largest number of votes is Denver.
 Applied the if statement to determine the couty with the largest number of vote by compare the percentage amount. 
 
-Largest number of votes
+**Largest number of votes**
 ![largest_count](Resources/largest_count.png)
 
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-Result of each candidate
+* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+**Result of each candidate**
 ![vote_percentage](Resources/vote_percentage.png)
+
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
 Diana DeGette won the election with the 73.8% of the total votes. The code uses the seperate f string to identify the winner clearly. 
