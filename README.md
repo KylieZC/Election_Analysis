@@ -5,6 +5,7 @@ This project helps a Colorado Board of Elections employee, Tom, to tabulate the 
 
 ## Election-Audit Result
 * How many votes were cast in this congressional election? 
+
 The total number of votes is 369,711. It is equal to the total number of rows in "election_results.csv" based on the for loop method. This loop iterates through each row and increments the "total_votes" variable by 1.
 
 ![total_votes1](Resources/total_votes1.png)
@@ -13,6 +14,7 @@ The total number of votes is 369,711. It is equal to the total number of rows in
 
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
+
  **Results of each county**
 ![c_vote_percentage](Resources/c_vote_percentage.png)
 Upon picture shows that the process retrieves the county's total vote count and uses the equation to calculate the vote percentage of each county. Followed by the f-string in the next step, so the rate is formatted to one decimal place.
