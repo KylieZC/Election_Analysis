@@ -40,7 +40,7 @@ _**Results of each candidate**_
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
 
-Diana DeGette won the election with 73.8% of the total votes. The code uses the separate f string to identify the winner. 
+Diana DeGette won the election with 272,892(73.8%) of the total votes. The code uses the separate f string to identify the winner. 
 
 _**Winner of the election**_
 ![winner](Resources/winner.png)
