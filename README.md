@@ -18,7 +18,7 @@ The total number of votes is 369,711. It is equal to the total number of rows in
 
 Below picture shows that the process retrieves the county's total vote count and uses the equation to calculate the vote percentage of each county. Followed by the f-string in the next step, so the rate is formatted to one decimal place.
 
- **Results of each county**
+_Results of each county_
 ![c_vote_percentage](Resources/c_vote_percentage.png)
 
 
