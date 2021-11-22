@@ -13,6 +13,7 @@ The total number of votes is 369,711. It is equal to the total number of rows in
 
 
 
+
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. 
 
  **Results of each county**
