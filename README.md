@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Overview of Election Audit
-+ This project helps a Colorado Board of Elections employee, Tom, to tabulate the result for the U.S. Congressional precinct in Colorado. This analysis uncovered multiple data based on the Python automatic process, including the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the election winner.
+This project helps a Colorado Board of Elections employee, Tom, to tabulate the result for the U.S. Congressional precinct in Colorado. This analysis uncovered multiple data based on the Python automatic process, including the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the election winner.
 
 
 ## Election-Audit Result
